@@ -4,6 +4,7 @@ import Collaboration from "./components/Collaboration";
 import Footer from "./components/Footer";
 import Header from "./components/Header";
 import Hero from "./components/Hero";
+import Pricing from "./components/Pricing";
 import Roadmap from "./components/Roadmap";
 
 const App = () => {
@@ -14,6 +15,7 @@ const App = () => {
         <Hero />
         <Benefits />
         <Collaboration />
+        <Pricing />
         <Roadmap />
         <Footer />
       </div>
